@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view. ad;akdfja;kfjakdjfa;kljfakjfa;jfajakj;kajk;jas;kdjas;kfja
+    // Do any additional setup after loading the view.
 }
 
 - (void)didReceiveMemoryWarning {
